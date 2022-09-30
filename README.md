@@ -1,8 +1,3 @@
-- 👋 Hi, I’m @NessaAz
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
 # 💫 About Me:
 🔭 I’m currently working on a chat app with Django<br>👯 I’m looking to collaborate on larger projects with Python, Flutter and deployments<br>🤝 I’m looking for help with getting work<br>🌱 I’m currently learning Flutter and Cloud Engineering<br>💬 Ask me about anything tech and cloud-related<br>⚡ Fun fact, I love heights
 
@@ -22,9 +17,6 @@
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-### 😂 Random Dev Meme
-<img src="https://random-memer.herokuapp.com/" width="512px"/>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=NessaAz&icon=0&color=0)](https://visitcount.itsvg.in)
