@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a chat app with Django<br>👯 I’m looking to collaborate on larger projects with Python, Flutter and deployments<br>🤝 I’m looking for help with getting work<br>🌱 I’m currently learning Flutter and Cloud Engineering<br>💬 Ask me about anything tech and cloud-related<br>⚡ Fun fact, I love heights
+🔭 I’m currently working on a chat app with Django<br>👯 I’m looking to collaborate on larger projects with Python, Flutter and deployments<br>🤝 I’m looking for opportunities to join a Development team<br>🌱 I’m currently learning Flutter and Cloud Engineering<br>💬 Ask me about anything tech and cloud-related<br>⚡ Fun fact, I love heights
 
 
 ## 🌐 Socials:
