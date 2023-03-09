@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently contributing to an Open Source Project mono repo:building a Learning Management System using Angular and Firebase<br>👯 I’m looking to collaborate on larger projects with Python, Flutter and deployments<br>🤝 I’m looking for opportunities to join a Development team<br>🌱 I’m currently learning Flutter and Cloud Engineering<br>💬 Ask me about anything tech and cloud-related<br>⚡ Fun fact, I love heights
+🔭 I’m currently contributing to an Open Source Project mono repo:building a Learning Management System using Angular and Firebase<br>👯 I’m looking to collaborate on larger projects with Python, Angular, Flutter and Cloud deployments<br>🤝 I’m looking for opportunities to join a Development team<br>🌱 I’m currently learning Flutter and Cloud Engineering<br>💬 Ask me about anything tech and cloud-related<br>⚡ Fun fact, I love heights
 
 
 ## 🌐 Socials:
