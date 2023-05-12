@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m recently interned for an e-commerce, Technologies used: WordPress CMS, Plug-n development using PHP and WooCommerce<br>👯 I’m looking to collaborate on larger projects with Python, React and Cloud development<br>🤝 I’m looking for opportunities to join a Development team<br>🌱 I’m currently learning React<br>💬 Ask me about anything tech and cloud-related<br>⚡ Fun fact, I love heights
+🔭 I’m recently interned for an e-commerce, Technologies used: WordPress CMS, Plug-n development using PHP and WooCommerce<br>👯 I’m looking to collaborate on larger projects with Python, React and Cloud development<br>🤝 I’m looking for opportunities to join a Development team<br>⚡ Fun fact, I love heights
 
 
 ## 🌐 Socials:
