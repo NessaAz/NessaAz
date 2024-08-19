@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I recently interned for an e-commerce, Technologies used: WordPress CMS, Plugin development using PHP and WooCommerce<br>👯 I’m looking to collaborate on larger projects with Python, React, Vue and Cloud development<br>🤝 I’m looking for opportunities to join a Development team<br>⚡ Fun fact, I love heights<br> 🔥I'm currently building Wireless Internet Provider System for a start up with a Co-founder
+🔭 I recently interned for an e-commerce, Technologies used: WordPress CMS, Plugin development using PHP and WooCommerce<br>👯 I’m looking to collaborate on larger projects with Python, React, Kotlin and Cloud computing<br>⚡ Fun fact, I love heights<br> 🔥I'm currently building Wireless Internet Provider System for a start up with a Co-founder
 
 
 ## 🌐 Socials:
