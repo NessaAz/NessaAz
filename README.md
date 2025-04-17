@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I currently work as a Mobile developer creating intuitive mobile apps<br>👯 I’m always open and eager to collaborate on more development projects <br>⚡ Fun fact, I love heights<br> 🔥Passion project: I'm currently building Wireless Internet Provider System for a start up with a Co-founder
+🔭 I currently work as a Mobile developer creating intuitive mobile apps<br>👯 I’m always open and eager to collaborate on more projects <br>⚡ Fun fact, I love heights<br> 🔥Passion project: I'm currently building a fun and interactive creative App
 
 
 ## 🌐 Socials:
